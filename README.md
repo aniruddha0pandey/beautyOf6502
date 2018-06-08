@@ -1,5 +1,6 @@
 # My Computer
-Actually the name **beautyOf6502** is misleading. This isn't some MOS processors project, it's just I like the name and the impact this technology put at that time from powering *Atari 2600* to *Apple II*.
+Actually the name **beautyOf6502** is misleading. This isn't some *MOS processors* project, it's just I like the name, and impact these technologies stood influenced put at late 90s from powering *Atari 2600* to *Apple II*. These processors which ones requires room full of space now can integrate the whole computer architecture in our fingertips, became so small given the name *microprocessor*. But what I intent here is the opposite, building one to the level of monstrosity.
+
 Also I want to build something from what I've learned so far and check if I can. This is my attempt to make a full working **8-Bit Computer** straight from ICs, resitors and other.
 
 # Motivation
