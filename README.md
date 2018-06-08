@@ -6,4 +6,4 @@ Also I want to build something from what I've learned so far and check if I can.
 # Motivation
 - [James Newman](http://www.megaprocessor.com/)
 - [The MOnSter 6502](https://monster6502.com/)
-- The [Javascript Simulator](http://visual6502.org/) build and the reverse engineering by [Visual 6502 Team](https://github.com/trebonian/visual6502)
+- The [Javascript Simulator](http://visual6502.org/JSSim/) build and the reverse engineering by [Visual 6502 Team](http://visual6502.org/). And their generous thought of [open source](https://github.com/trebonian/visual6502).
