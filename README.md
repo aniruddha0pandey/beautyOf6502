@@ -1,5 +1,6 @@
 # My Computer
-Actually the name **beautyOf6502** is misleading. This isn't some Apple II processors project, it's just I like the name.
+Actually the name **beautyOf6502** is misleading. This isn't some MOS processors project, it's just I like the name and the impact this technology put at that time from powering *Atari 2600* to *Apple II*.
+Also I want to build something from what I've learned so far and check if I can. This is my attempt to make a full working **8-Bit Computer** straight from ICs, resitors and other.
 
 # Motivation
 [James Newman](http://www.megaprocessor.com/)
