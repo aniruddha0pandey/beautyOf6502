@@ -1,2 +1,2 @@
-# beautyOf6502
-8-BIT COMPUTER FROM SCRATCH
+# Motivation
+James Newman 
