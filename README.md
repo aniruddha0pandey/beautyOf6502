@@ -6,5 +6,5 @@ Also I want to build something from what I've learned, going to learn in the pro
 # Motivation
 - [James Newman](http://www.megaprocessor.com/)
 - [The MOnSter 6502](https://monster6502.com/)
-- The [Javascript Simulator](http://visual6502.org/JSSim/) build, reverse engineering by [Visual 6502 Team](http://visual6502.org/) and their generous thought of [open source](https://github.com/trebonian/visual6502).
+- The [Javascript Simulator](http://visual6502.org/JSSim/) build, reverse engineering by [Visual 6502 Team](http://visual6502.org/) and their generous thought of [OpenSourcing](https://github.com/trebonian/visual6502).
 - [Digital Computer Electronics](https://www.scribd.com/document/332484423/Digital-Computer-Electronics-3rd-Edition-Malvino) by Albert P. Malvino, Jerald A Brown.
