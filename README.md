@@ -8,3 +8,7 @@ Also I want to build something from what I've learned, going to learn in the pro
 - [The MOnSter 6502](https://monster6502.com/)
 - The [Javascript Simulator](http://visual6502.org/JSSim/) build, reverse engineering by [Visual 6502 Team](http://visual6502.org/) and their generous thought of [OpenSourcing](https://github.com/trebonian/visual6502).
 - [Digital Computer Electronics](https://www.scribd.com/document/332484423/Digital-Computer-Electronics-3rd-Edition-Malvino) by Albert P. Malvino, Jerald A Brown.
+
+# License
+Copyright (c) Aniruddha Pandey and contributors. All rights reserved.
+Licensed under the MIT license. See LICENSE file in the project root for full license information.
