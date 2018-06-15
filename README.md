@@ -10,5 +10,5 @@ Also I want to build something from what I've learned, going to learn in the pro
 - [Digital Computer Electronics](https://www.scribd.com/document/332484423/Digital-Computer-Electronics-3rd-Edition-Malvino) by Albert P. Malvino, Jerald A Brown.
 
 # License
-Copyright (c) Aniruddha Pandey and contributors. All rights reserved.<br/>
-Licensed under the MIT license. See LICENSE file in the project root for full license information.
+Copyright (c) Aniruddha Pandey and contributors. All rights reserved.</br>
+Licensed under the MIT license. See [LICENSE](https://github.com/aniruddha0pandey/beautyOf6502/blob/master/LICENSE) file in the project root for full license information.
