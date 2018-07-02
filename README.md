@@ -18,6 +18,13 @@ This shows the functional relationships between the various parts of the system.
 Ambitious future dev  
 <div align="center"><img src="https://github.com/aniruddha0pandey/beautyOf6502/blob/master/images/pcb-design.png"></div>
 
+## Software
+
+## Instruction Set
+Detail usage for the 20 terminal commands. Upper, Lower and Random case letters are allowed with last 4-digit round-off hex-addressing.
+[Command Summary](commands.csv).
+
+
 ## Motivation
 - [James Newman](http://www.megaprocessor.com/)
 - [The MOnSter 6502](https://monster6502.com/)
