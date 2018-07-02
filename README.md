@@ -12,7 +12,7 @@ This shows the functional relationships between the various parts of the system.
 <div align="center"><img src="images/block-diagram-1.png"></div>  
 
 ---
-
+CPU:
 <div align="center"><img src="images/block-diagram-2.GIF"></div>
 
 ## Schematics
