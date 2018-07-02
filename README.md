@@ -9,14 +9,14 @@ Also I want to build something from what I've learned, going to learn in the pro
 
 ## Block Diagram
 This shows the functional relationships between the various parts of the system.  
-<div align="center"><img src="https://github.com/aniruddha0pandey/beautyOf6502/blob/master/images/block-diagram.png"></div>
+<div align="center"><img src="images/block-diagram.png"></div>
 
 ## Schematics
-<div align="center"><img src="https://github.com/aniruddha0pandey/beautyOf6502/blob/master/images/schematics.png"></div>
+<div align="center"><img src="images/schematics.png"></div>
 
 ## PCB Design
 Ambitious future dev  
-<div align="center"><img src="https://github.com/aniruddha0pandey/beautyOf6502/blob/master/images/pcb-design.png"></div>
+<div align="center"><img src="images/pcb-design.png"></div>
 
 ## Software
 
@@ -34,4 +34,4 @@ Detail usage for the 20 terminal commands. Upper, Lower and Random case letters 
 
 ## License
 Copyright (c) 2018 Aniruddha Pandey and contributors. All rights reserved.</br>
-Licensed under the MIT license. See [LICENSE](https://github.com/aniruddha0pandey/beautyOf6502/blob/master/LICENSE) file in the project root for full license information.
+Licensed under the MIT license. See [LICENSE](LICENSE) file in the project root for full license information.
