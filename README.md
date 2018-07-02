@@ -7,9 +7,10 @@ Also I want to build something from what I've learned, going to learn in the pro
 - Suffecient Memory for RAM and ROM.
 - Paralle, Serial and Analog I/O Capabilities.
 
-## Block Diagram
+## Block Diagrams
 This shows the functional relationships between the various parts of the system.  
-<div align="center"><img src="images/block-diagram.png"></div>
+<div align="center"><img src="images/block-diagram-1.png"></div>
+<div align="center"><img src="images/block-diagram-2.png"></div>
 
 ## Schematics
 <div align="center"><img src="images/schematics.png"></div>
