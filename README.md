@@ -11,6 +11,9 @@ Also I want to build something from what I've learned, going to learn in the pro
 This shows the functional relationships between the various parts of the system.  
 <div align="center"><img src="https://github.com/aniruddha0pandey/beautyOf6502/blob/master/images/block-diagram.png"></div>
 
+## Schematics
+<div align="center"><img src="https://github.com/aniruddha0pandey/beautyOf6502/blob/master/images/schematics.png"></div>
+
 ## Motivation
 - [James Newman](http://www.megaprocessor.com/)
 - [The MOnSter 6502](https://monster6502.com/)
