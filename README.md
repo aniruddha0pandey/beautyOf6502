@@ -9,7 +9,8 @@ Also I want to build something from what I've learned, going to learn in the pro
 
 ## Block Diagrams
 This shows the functional relationships between the various parts of the system.  
-<div align="center"><img src="images/block-diagram-1.png"></div>
+<div align="center"><img src="images/block-diagram-1.png"></div>  
+---
 <div align="center"><img src="images/block-diagram-2.GIF"></div>
 
 ## Schematics
