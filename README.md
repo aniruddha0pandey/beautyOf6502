@@ -32,7 +32,7 @@ Detail usage for the 20 terminal commands. Upper, Lower and Random case letters 
 ## Motivation
 - [James Newman](http://www.megaprocessor.com/)
 - [The MOnSter 6502](https://monster6502.com/)
-- The [Javascript Simulator](http://visual6502.org/JSSim/) build, reverse engineering by [Visual 6502 Team](http://visual6502.org/) and their generous thought of [OpenSourcing](https://github.com/trebonian/visual6502).
+- The [Javascript Simulator](http://visual6502.org/JSSim/) build, reverse engineering by [Visual 6502 Team](http://visual6502.org/) and their generous thought of [open sourcing](https://github.com/trebonian/visual6502).
 - [Digital Computer Electronics](https://www.scribd.com/document/332484423/Digital-Computer-Electronics-3rd-Edition-Malvino) by **Albert P. Malvino**.
 - [But How Do I Know]() by **J Clark Scott**.
 - [SBMCS](http://www.cs.binghamton.edu/~reckert/sbc.htm) by **Prof. Richard R. Eckert** of Binghamton University, New York.
