@@ -16,7 +16,7 @@ CPU:
 <div align="center"><img src="images/block-diagram-2.GIF"></div>
 
 ## Hardware
-A variety of electronic components are used in this project, listed [here](requirement.csv).
+A variety of electronic components are used in this project, listed [here](requirements.csv).
 
 ## Schematics
 <div align="center"><img src="images/schematics.png"></div>
