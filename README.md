@@ -15,6 +15,9 @@ This shows the functional relationships between the various parts of the system.
 CPU:
 <div align="center"><img src="images/block-diagram-2.GIF"></div>
 
+## Hardware
+A variety of electronic components are used in this project, listed [here](requirement.csv).
+
 ## Schematics
 <div align="center"><img src="images/schematics.png"></div>
 
