@@ -31,6 +31,7 @@ Ambitious future dev. [Gerber file]().
 Detail usage for the 20 terminal commands. Upper, Lower and Random case letters are allowed with last 4-digit round-off hex-addressing.
 [Command Summary](commands.csv).
 
+## [Bill of Materials](BOM.csv)
 
 ## Motivation
 - [James Newman](http://www.megaprocessor.com/)
