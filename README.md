@@ -22,7 +22,7 @@ A variety of electronic components are used in this project, listed [here](requi
 <div align="center"><img src="images/schematics.png"></div>
 
 ## PCB Design
-Ambitious future dev. [Gerber file]().  
+Ambitious future dev. [Gerber file](https://easyeda.com/).  
 <div align="center"><img src="images/pcb-design.png"></div>
 
 ## Software
