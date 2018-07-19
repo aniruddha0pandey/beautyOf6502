@@ -4,6 +4,7 @@ Actually the name **beautyOf6502** is misleading. This isn't some *MOS processor
 Also I want to build something from what I've learned, going to learn in the process and check if **I** can. This is my attempt to make a full working **8-Bit Computer** straight from ICs, resitors and other electronic components.
 
 ## Features
+- Based on Harvard Architecture.
 - Suffecient Memory for RAM and ROM.
 - Paralle, Serial and Analog I/O Capabilities.
 
