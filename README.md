@@ -5,6 +5,7 @@ Also I want to build something from what I've learned, going to learn in the pro
 
 ## Features
 - Based on Harvard Architecture.
+- *Equivalent* to RISC Processor Architecture.
 - Suffecient Memory for RAM and ROM.
 - Paralle, Serial and Analog I/O Capabilities.
 
