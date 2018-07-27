@@ -21,7 +21,8 @@ CPU:
 A variety of electronic components are used in this project, listed [here](requirements.csv).
 
 ## Schematics
-<div align="center"><img src="images/schematics.png"></div>
+<div align="center"><img src="images/ALU-8bit-adder-subtracter.svg"></div>  
+<div align="center"><img src="images/ALU-8bit-adder-subtracter.png"></div>  
 
 ## PCB Design
 Ambitious future dev. [Gerber file](https://easyeda.com/).  
