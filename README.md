@@ -22,7 +22,7 @@ A variety of electronic components are used in this project, listed [here](requi
 
 ## Schematics
 <div align="center"><img src="images/ALU-8bit-adder-subtracter.svg"></div>  
-This is the implementation of this schematics. It is not working properly right now, needs some troubleshooting here and there. But all that's worth my time, I sleep with a big smilen on my face that day.  
+Under here is the implementation of this schematics with additional circuitry of dip-switches with pull-down resistors. It is not working properly right now, needs some troubleshooting here and there. But all that's worth my time, I sleep with a big smilen on my face that day.  
 <div align="center"><img src="images/ALU-8bit-adder-subtracter.jpg"></div>  
 
 ## PCB Design
